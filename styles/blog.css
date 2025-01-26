@@ -1,0 +1,17 @@
+/* Blog Page Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fafafa;
+  }
+  
+  header {
+    background-color: #444;
+    color: white;
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
