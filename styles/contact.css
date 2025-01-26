@@ -1,0 +1,17 @@
+/* Contact Us Page Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #e0e0e0;
+  }
+  
+  header {
+    background-color: #555;
+    color: white;
+    padding: 1rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    text-align: center;
+  }
+  
